@@ -1,12 +1,6 @@
 ![Logo][octant-logo]
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
+[![](https://mermaid.ink/img/pako:eNptkcFuwjAMhl8l8mnTCmpDC7TaZRpD2mEnbqjSZFqvRDQJS1MxYLz72mztGMwn-3P-X459hEznBAlkJVbVTGBhUKaKNfGghMSS3X8OBmxWZ5trOhfV-pouaWXwD07YnVCWYUGXeGGNUAUrSOVkzputpHpB2aQ3txcNiZY66MZ24x2_AetNV4SbR11q0zeqnZCdsCnfa8w2XX0692s_1vsN2tkrcaBnNSeyPc5QPaH9V-9W8DvQSuuSiep1J8q8h6ZWvRY8kGQkiry5hNOlYNckKYWkSXN6w7q0KaSqfYq11Yu9yiCxpiYP6m3ebOTndh3cooLkCB-Q8HgyjKI44KNJPPKDkIce7CEJYj7kke_7EedTfzwKTh4ctG4M_GEYu5iOQ5_H0Th2dkvXbN1PXysNp9c?type=png)](https://mermaid.live/edit#pako:eNptkcFuwjAMhl8l8mnTCmpDC7TaZRpD2mEnbqjSZFqvRDQJS1MxYLz72mztGMwn-3P-X459hEznBAlkJVbVTGBhUKaKNfGghMSS3X8OBmxWZ5trOhfV-pouaWXwD07YnVCWYUGXeGGNUAUrSOVkzputpHpB2aQ3txcNiZY66MZ24x2_AetNV4SbR11q0zeqnZCdsCnfa8w2XX0692s_1vsN2tkrcaBnNSeyPc5QPaH9V-9W8DvQSuuSiep1J8q8h6ZWvRY8kGQkiry5hNOlYNckKYWkSXN6w7q0KaSqfYq11Yu9yiCxpiYP6m3ebOTndh3cooLkCB-Q8HgyjKI44KNJPPKDkIce7CEJYj7kke_7EedTfzwKTh4ctG4M_GEYu5iOQ5_H0Th2dkvXbN1PXysNp9c)
 
 [![Build Status](https://github.com/vmware-tanzu/octant/workflows/preflight-checks/badge.svg)](https://github.com/vmware-tanzu/octant/workflows/preflight-checks/badge.svg)
 ![GitHub release](https://img.shields.io/github/release/vmware-tanzu/octant.svg)
